@@ -1,9 +1,9 @@
-✔️ Hi, I’m @g1azed "Suji Hong"
-✔️ I’m interested in "design and web develop"
-✔️ I’m currently learning "developing language"
-✔️ Do you want to connect me? "victoria1230120@gmail.com"
+✔️ Hi, I’m @g1azed "Suji Hong" <br />
+✔️ I’m interested in "design and web develop" <br />
+✔️ I’m currently learning "developing language" <br />
+✔️ Do you want to connect me? "victoria1230120@gmail.com" <br />
 
-Im happy because you crowded to me. :]
+Im happy because you crowded to me. :] <br /><br /><br />
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fg1azed%2Fg1azed&count_bg=%23190A23&title_bg=%23C2A5DB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
