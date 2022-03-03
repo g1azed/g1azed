@@ -4,3 +4,5 @@
 - 📫 How to reach me "victoria1230120@gmail.com"
 
 I'm happy because you crowded to me. :]
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fg1azed%2Fg1azed&count_bg=%23190A23&title_bg=%239A7CB4&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
