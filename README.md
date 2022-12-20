@@ -1,6 +1,6 @@
-✔️ Hi, I’m @g1azed "Suji Hong" <br />
-✔️ I’m interested in "design and web develop" <br />
-✔️ I’m currently learning "developing language" <br />
+✔️ Hi, I’m @g1azed "Suzy Hong" <br />
+✔️ I’m interested in "web develop" <br />
+✔️ I’m currently learning "JavaScript" <br />
 ✔️ Do you want to connect me? "victoria1230120@gmail.com" <br />
 
 Im happy because you crowded to me :] <br /><br /><br />
